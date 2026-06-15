@@ -37,15 +37,9 @@
 ![Software Testing](https://img.shields.io/badge/Software_Testing-4B5563?style=flat)
 ![Documentation](https://img.shields.io/badge/Documentation-4B5563?style=flat)
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-**Alarm Walker — Bachelor’s Degree Final Year Project (FYP)**
-A smart alarm mobile application built with Flutter, designed to reduce passive alarm dismissal through task-based wake-up challenges. The project includes alarm scheduling, wake-up tasks, wake-up analytics, SQLite local storage, Firebase issue logging, Flutter Web admin panel, and APK release.
-Repository: [alarm_walker](https://github.com/Pythoenixx/alarm_walker)
-
-**TembaKetik — Diploma Final Year Project**
-A Python typing game built with Pygame to make typing practice more interactive. The project includes typing-based gameplay, score tracking, leaderboard, login and registration, and database integration.
-Repository: [TembaKetik](https://github.com/Pythoenixx/TembaKetik)
+Check out my pinned repositories below, including my Bachelor’s Degree Final Year Project, **Alarm Walker**, and my Diploma Final Year Project, **TembaKetik**.
 
 ## 🔗 Connect
 
