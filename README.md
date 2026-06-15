@@ -1,8 +1,8 @@
 # Hi, I'm Azany 👋
 
-I'm a Software Engineering student interested in application development, mobile development, database systems, and software testing.
+🎓 Software Engineering student interested in application development, mobile development, database systems, and software testing.
 
-## Core Skills
+## 🧰 Core Skills
 
 **Mobile App Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
@@ -37,17 +37,17 @@ I'm a Software Engineering student interested in application development, mobile
 ![Software Testing](https://img.shields.io/badge/Software_Testing-4B5563?style=flat)
 ![Documentation](https://img.shields.io/badge/Documentation-4B5563?style=flat)
 
-## Project Experience
+## 🚀 Featured Projects
 
 **Alarm Walker — Bachelor’s Degree Final Year Project (FYP)**
-Smart alarm mobile application built with Flutter. Includes task-based alarm dismissal, wake-up analytics, SQLite local storage, Firebase issue logging, Flutter Web admin panel, and APK release.
+A smart alarm mobile application built with Flutter, designed to reduce passive alarm dismissal through task-based wake-up challenges. The project includes alarm scheduling, wake-up tasks, wake-up analytics, SQLite local storage, Firebase issue logging, Flutter Web admin panel, and APK release.
 Repository: [alarm_walker](https://github.com/Pythoenixx/alarm_walker)
 
 **TembaKetik — Diploma Final Year Project**
-Python typing game built with Pygame. Includes typing-based gameplay, score tracking, leaderboard, login and registration, and database integration.
+A Python typing game built with Pygame to make typing practice more interactive. The project includes typing-based gameplay, score tracking, leaderboard, login and registration, and database integration.
 Repository: [TembaKetik](https://github.com/Pythoenixx/TembaKetik)
 
-## Connect
+## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Azany_Dzikry-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/azany-dzikry-181b822b3)
 [![GitHub](https://img.shields.io/badge/GitHub-Pythoenixx-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Pythoenixx)
